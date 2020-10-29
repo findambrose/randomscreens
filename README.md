@@ -4,8 +4,8 @@ Random screens done with flutter. Fintech idea.
 
 #Screenshots
 
-![Homepage](home.jpg)
+![Homepage](https://github.com/findambrose/randomscreens/blob/master/home.jpeg)
 
-![Transfer](transfer.jpg)
+![Transfer](https://github.com/findambrose/randomscreens/blob/master/transfer.jpeg)
 
-![Expenses](expenses.jpg)
+![Expenses](https://github.com/findambrose/randomscreens/blob/master/expenses.jpeg)

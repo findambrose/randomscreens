@@ -1,4 +1,4 @@
-# randomscreens
+# Randomscreens
 
 Random screens done with flutter. Fintech idea.
 
